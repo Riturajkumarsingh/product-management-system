@@ -66,13 +66,3 @@ A complete, production-ready Full-Stack Product Management System built with **L
    ```
    Access the app at: `http://127.0.0.1:8000`
 
-## 🔑 Default Credentials (Seeded)
-- **Email:** `admin@example.com`
-- **Password:** `password`
-
-## 📡 API Testing
-You can test the API using Postman. A pre-configured Postman Collection is included.
-Just import the `Product_API_Postman.json` file into Postman and set the `base_url` variable to `http://127.0.0.1:8000`.
-
-## 📜 License
-This project is open-source and available under the [MIT license](https://opensource.org/licenses/MIT).
